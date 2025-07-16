@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7cfcd687-5739-4df0-abbc-c7743e576e5b")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "BAT{BAT}"
+		(shape input)
+		(at 45.72 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "a4a51551-f92c-4a02-be03-ee266121b864")
+	)
+)
