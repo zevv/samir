@@ -279,14 +279,14 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgb(10, 25, 255)",
-        "wire_width": 10
+        "wire_width": 12
       },
       {
         "name": "odd",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgb(255, 61, 71)",
-        "wire_width": 10
+        "wire_width": 12
       }
     ],
     "meta": {
@@ -438,10 +438,6 @@
       "Root"
     ],
     [
-      "dbc28b36-97d8-40ce-81cb-e17279f9b717",
-      "protection"
-    ],
-    [
       "0caa1917-1673-4e7a-9f46-66f63d26453a",
       "sensing"
     ],
@@ -452,6 +448,14 @@
     [
       "9652e511-910a-49d9-82cc-4ce4e43e7231",
       "bottom"
+    ],
+    [
+      "b1afca77-7516-42dc-92a8-3f0a365e9604",
+      "cpu"
+    ],
+    [
+      "b7096eb7-eade-4754-932e-94fddd95561c",
+      "Power"
     ]
   ],
   "text_variables": {}
